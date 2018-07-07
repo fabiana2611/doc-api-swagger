@@ -9,6 +9,8 @@ This examples was built using annotations.
 
 To test the API can use Postman or to use the documentation accessing http://localhost:8080/swagger-ui.html
 
+More detail you can aceess: http://mestregenoma.com/en/swagger-o-que-e/
+
 References used to this project:
 
 - http://blog.caelum.com.br/modelando-apis-rest-com-swagger/
